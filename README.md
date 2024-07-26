@@ -1,3 +1,3 @@
-# CHAT AI Gemini Based Chat Bot App Starter Setup
+# CHAT AI Gemini Based Chat Bot Application
 
-This template provides a minimal setup to get React 19 working in Vite with HMR and some ESLint rules.
+-- WILL BE UPDATED AFTER TESTING
